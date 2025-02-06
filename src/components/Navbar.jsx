@@ -11,8 +11,6 @@ const Navbar = () => {
                     {/* Logos */}
                     <div className="flex justify-center md:justify-start items-center space-x-4 mb-4 md:mb-0">
                         <img src="/UJAT.png" alt="Logo 1" className="h-10 md:h-12" />
-                        <img src="/OIP.png" alt="Logo 2" className="h-10 md:h-12" />
-                        <img src="/logo1.png" alt="Logo 3" className="h-10 md:h-12" />
                     </div>
                     {/* Idiomas */}
                     <div className="flex justify-center md:justify-end items-center space-x-4">
